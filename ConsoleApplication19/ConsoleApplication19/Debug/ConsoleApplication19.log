@@ -1,0 +1,7 @@
+﻿  ConsoleApplication19.cpp
+c:\users\ro\source\repos\consoleapplication19\consoleapplication19\consoleapplication19.cpp(6): warning C4018: '<': no coinciden signed/unsigned
+c:\users\ro\source\repos\consoleapplication19\consoleapplication19\consoleapplication19.cpp(7): warning C4018: '<': no coinciden signed/unsigned
+c:\users\ro\source\repos\consoleapplication19\consoleapplication19\consoleapplication19.cpp(21): warning C4018: '<': no coinciden signed/unsigned
+c:\users\ro\source\repos\consoleapplication19\consoleapplication19\consoleapplication19.cpp(22): warning C4018: '<': no coinciden signed/unsigned
+c:\users\ro\source\repos\consoleapplication19\consoleapplication19\consoleapplication19.cpp(25): warning C4018: '<': no coinciden signed/unsigned
+  ConsoleApplication19.vcxproj -> C:\Users\ro\source\repos\ConsoleApplication19\Debug\ConsoleApplication19.exe
