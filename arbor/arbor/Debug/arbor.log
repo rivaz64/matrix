@@ -1,0 +1,26 @@
+﻿  Source.cpp
+c:\users\ro\source\repos\arbor\arbor\source.cpp(44): warning C4018: '<': no coinciden signed/unsigned
+c:\users\ro\source\repos\arbor\arbor\source.cpp(46): warning C4018: '<': no coinciden signed/unsigned
+c:\users\ro\source\repos\arbor\arbor\source.cpp(53): warning C4018: '<': no coinciden signed/unsigned
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(173): warning C4244: 'inicializando': conversión de 'double' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+  c:\users\ro\source\repos\arbor\arbor\source.cpp(25): note: vea la referencia a la creación de instancias de plantilla de función 'std::pair<const _Kty,_Ty>::pair<std::string&,double&,0>(_Other1,_Other2) noexcept(false)' que se está compilando
+          with
+          [
+              _Kty=std::string,
+              _Ty=int,
+              _Other1=std::string &,
+              _Other2=double &
+          ]
+  c:\users\ro\source\repos\arbor\arbor\source.cpp(25): note: vea la referencia a la creación de instancias de plantilla de función 'std::pair<const _Kty,_Ty>::pair<std::string&,double&,0>(_Other1,_Other2) noexcept(false)' que se está compilando
+          with
+          [
+              _Kty=std::string,
+              _Ty=int,
+              _Other1=std::string &,
+              _Other2=double &
+          ]
+  arbor.vcxproj -> C:\Users\ro\source\repos\arbor\Debug\arbor.exe
